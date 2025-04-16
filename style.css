@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #0077cc;
+  }
+  
+  input, select, button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+  }
+  
+  .config-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 10px;
+    background: #f9f9f9;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #status {
+    margin-top: 20px;
+    color: green;
+    font-weight: bold;
+  }
+  
